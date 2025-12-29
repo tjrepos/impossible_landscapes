@@ -1,0 +1,2 @@
+In Carcosa, at the Palace of Yhtill, partygoers enjoy a royal masquerade and meet a mysterious stranger. Armed with the bottle from the Whisper Labyrinth, the Agents are invited into the presence of the King in Yellow himself. Before the clocks strike midnight, the Agents must find the long-missing Abigail Wright and the final, terrible answer to the question that is their own existence. Beyond this lies destruction, escape, or madness. Each answer uncovered is as unique
+as each Agent.

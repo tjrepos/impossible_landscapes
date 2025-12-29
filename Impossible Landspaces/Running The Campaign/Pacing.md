@@ -1,0 +1,2 @@
+The game cannot just be one crazy idea after another. It must hint at bigger secrets, at some axis it spins upon, or players can lose interest. For a sense of that scope, surreal horror operates around a theme and a threat. The theme of Impossible Landscapes is the borderline between creation and insanity. The threat is the force known as the King in Yellow that hides within the play The King in Yellow and its symbol, the Yellow Sign.
+
