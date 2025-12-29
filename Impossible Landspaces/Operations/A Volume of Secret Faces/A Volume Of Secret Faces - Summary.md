@@ -1,5 +1,3 @@
-Agents who survived “The Night Floors” spend 20 years in Delta Green. You can play out a campaign of other operations across those years if you like. When survivors of “[[The Night Floors Summary]]” die or go insane, find ways to pass along details of their experiences to other Agents, details they recall with awful urgency. Perhaps in flashbacks a new Agent recalls hearing terrifying
-tales from an Agent years gone. Autumn of 2015 brings the Agents back to Impossible Landscapes.
-They are called to the [[Dorchester House Summary]] psy-chiatric facility in Boston to locate escaped patients committed long ago by Delta Green. As the mystery unfolds amidst a panoply of horrors, Agents discover that they are actually psychiatric patients trapped in a nightmare version of the hospital. They face a harried escape and receive a cryptic message from the Clock-work Child, a messenger of the King. The Agents learn they must find a peculiar bottle beneath a strange
-hotel called [[Hotel Broadalbin Summary]]. This bottle, it appears, is the key to avoiding damnation.
-Surreality creeps into the world from the infection at the Dorchester House. It culminates with an inversion of all the Agents believe, leaving them uncertain what is real.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6aee8f4ca2d895a4cac7997f3571e63be63d95b6f911f4c0b8bed882a67db01
+size 1241
