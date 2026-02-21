@@ -1,2 +1,3 @@
-Marked as vectors of the cancerous play The King in Yellow and on the run from Delta Green itself, the Agents seek the ghost-hotel known as [[Hotel Broadalbin Summary]]. As they investigate and uncover the secrets of the play (which seems more and more a part of everyday life), Agents also flee a Delta Green hit team formed in 1955, somehow kept alive and vital by the King in Yellow. As reality collapses to fall in line with their madness, the Agents gain access to Broadalbin and,
-beneath it, the Whisper Labyrinth. There they search for the mysterious bottle. The world opens onto existential gulfs and Agents see it for what it truly is: a distorted reflection of some other, infinite realm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81050cae8c284239e7daae81409ffcf9770a7ea15a86c4be617f2cf25ff308ed
+size 698
